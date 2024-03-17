@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\БГУ\4 семестр\оси\Lab1_vika\main\main.cpp(23,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\БГУ\4 семестр\оси\Lab1_vika\main\main.cpp(59,40): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  main.vcxproj -> C:\БГУ\4 семестр\оси\Lab1_vika\x64\Debug\main.exe
