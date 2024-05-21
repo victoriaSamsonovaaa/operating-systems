@@ -1,4 +1,0 @@
-﻿  lab2_vika.cpp
-C:\БГУ\4 семестр\оси\lab2_vika\lab2_vika\lab2_vika.cpp(19,16): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\БГУ\4 семестр\оси\lab2_vika\lab2_vika\lab2_vika.cpp(24,16): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\БГУ\4 семестр\оси\lab2_vika\lab2_vika\lab2_vika.cpp(75,2): error C2059: синтаксическая ошибка: константа
